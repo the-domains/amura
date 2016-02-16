@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[amura]]></title>
+        <description><![CDATA[amura]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 12:29:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Office afternoon]]></title>
+            <description><![CDATA[<h1>Office afternoon</h1>]]></description>
+            <link>undefinedoffice-afternoon/index.html</link>
+            <guid isPermaLink="false">7dd045b8-6248-47d2-9f50-2959284f17c4</guid>
+            <pubDate>Tue, 16 Feb 2016 12:19:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
